@@ -4,7 +4,7 @@ Stock analysis using various regression by implementing python libraries and dis
 
 To run this project,
 
-Open the project in VS code and hit run.
+Open the project/ regressions.py file in VS CODE/ Jupiter and hit run.
 
 You will see prediction analysis graph for Google stock (A graph would show up) for a linear regression. 
 
